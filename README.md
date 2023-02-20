@@ -7,3 +7,11 @@
 [DEMO](https://hdrp0720-overwatch.netlify.app/)
 
 ![Overwatch](./images/overwatch-ui.gif)
+
+# SCSS 리팩토링 버전
+
+https://github.com/HDRP0720/overwatchUI/tree/refactoring
+
+- nodeJS 환경 설정
+- parcel bundler 추가
+- css를 scss로 변경
